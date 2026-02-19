@@ -1,3 +1,3 @@
 # Git_Course
-larean basc of git commet
+larean basc of git verson control
 ## first 
